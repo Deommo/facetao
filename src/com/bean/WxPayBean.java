@@ -1,7 +1,7 @@
 package com.bean;
 
 public class WxPayBean {
-	
+	//测试成功
 	private String appid;//微信后台查看
 	private String backUri;//Oauth2验证回调链接
 	private String appsecret;//微信后台查看（需申请）
