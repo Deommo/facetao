@@ -12,13 +12,13 @@ public class WxPayBean {
 	private String notify_url;//支付结果通知地址（异步）
 	
 	public WxPayBean(){
-		this.appid="wx9569d09a32f94aac";
+		this.appid="";
 		this.backUri="http://facetao.free.ngrok.cc/pay/topayServlet";
-		this.appsecret="643f6471ffc3749a0b69aa9251e1a194";
-		this.partner="1053118237@1386021202";
-		this.partnerkey="123456";
-		this.apikey="diaoqinming2017diaoqinming2018fy";
-		this.mch_id="1386021202";
+		this.appsecret="";
+		this.partner="";
+		this.partnerkey="";
+		this.apikey="";
+		this.mch_id="";
 		this.notify_url="http://facetao.free.ngrok.cc/pay/NotifyServlet";
 	}
 	
